@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --bg-1: #0f1724;
     /* deep navy */
     --bg-2: #071028;
@@ -15,7 +15,7 @@
     --timeline-left: rgba(96, 165, 250, 0.92);
     /* blue */
     --timeline-right: rgba(96, 165, 250, 0.92);
-}
+} */
 
 * {
     box-sizing: border-box;

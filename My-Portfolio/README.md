@@ -1,12 +1,10 @@
-# 🌐 Portfolio Website – Akshay S  
+# 🌐 Portfolio Website – Siddu Kulkarni
 
 This is my **personal portfolio website** showcasing my projects, skills, and achievements.  
 It is built with modern frontend technologies and designed to be **clean, responsive, and professional**.  
 
 ---
 
-## 🔗 Live Demo  
-👉 [View Portfolio]()  
 
 ---
 
